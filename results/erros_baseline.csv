@@ -1,0 +1,242 @@
+id,comentario,label,pred_baseline,pred_bertimbau,erro_baseline,erro_bertimbau,situacao
+3443,@crisflorais orgulho de levar no rabicó ne,1,0,0,True,True,Ambos erraram
+6375,Só esse Pernambucano no governo. .....tem igual não.,0,1,0,True,False,Só baseline errou
+4363,"""Vcs que fazem parte dessa massa"" 😞",0,1,0,True,False,Só baseline errou
+6812,Todo apoio a esse brilhante escritor.,0,1,0,True,False,Só baseline errou
+1937,"🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷 Maravilha! Bolsonaro 2022!!!!! Vamos mudar o rumo de nossas vidas pelo trabalho, pela honra, pela honestidade e pela ética. Apoio total ao governo. Vamos defender nosso país da quadrilha comunista.",1,0,0,True,True,Ambos erraram
+673,"Meu Deus essa criatura só reclama, vc nao é deputada? Deputada tem que ter projetos mas vc só dica de fuxico e baixaria eu heim",1,0,1,True,False,Só baseline errou
+1605,"Esse facista , racista e homofóbico ainda está vivo na política??? Vc não não me representa !!!",1,0,1,True,False,Só baseline errou
+3801,A natureza dessa camarada é ser preconceituoso impressionante como o faz à todo tempo.,0,1,1,True,True,Ambos erraram
+1884,"Dupla personalidade... ou desequilibrada mesmo... 3, 2, 1... hauahuahaua",1,0,1,True,False,Só baseline errou
+6766,"Que isso glr, vcs n sabem conversar sem ofender?",0,1,0,True,False,Só baseline errou
+4080,Que consciência tem essa garota!,0,1,0,True,False,Só baseline errou
+5527,"Esses filhos foram criados dessa maneira, falando o que pensam. Esquecem que estão no comando de uma grande nação. Precisam todos eles pensar melhor antes de falar.",0,1,0,True,False,Só baseline errou
+3275,"O grupo é grande, com certeza tem mais políticos no meio.",1,0,0,True,True,Ambos erraram
+5893,Estão querendo prender Lula de novo.,0,1,1,True,True,Ambos erraram
+4934,"Por um lado eu acho desnecessário ficar um atacando o outro, MAS por outro lado acho necessário, pois SÓ assim ficamos sabendo o que a passa nos """" bastidores """".",0,1,0,True,False,Só baseline errou
+5794,"Deputados, senadores quebram decoro, rasgam a constituição e nada acontece com vcs!",0,1,1,True,True,Ambos erraram
+2146,"JAMAIS IRIA TORCER CONTRA O MEU BRASIL, MAS BEM FEITO PRA QUEM VOTOU NESSE PEDAÇO DE ESTRUME, EU VOU ME FODER, MAIS QUERO VER DE CAMAROTE ESSES BURROS SE FODEREM MAIS AINDA!",1,0,1,True,False,Só baseline errou
+5691,"Nunca houve isso no Brasil o Bolsonaro semeou está descriminação contra a os negros ,os gays, contra a todos. O quê que este homem aínda está fazendo no governo.",0,1,1,True,True,Ambos erraram
+6210,@lu_cianoramos vai se taxado em 92% pra respirar,0,1,0,True,False,Só baseline errou
+2871,"Continuará sendo a diva das Américas e a única mulher eleita e reeleita presidente da república federativa do Brasil! Engulam isso, canalhas fascistas.",1,0,1,True,False,Só baseline errou
+5130,Rainha de ébano,0,1,0,True,False,Só baseline errou
+1982,Nenhuma dúvida ...esse presidente tem horror ao povo.,1,0,1,True,False,Só baseline errou
+5601,Correta afirmação! Estao areimando argumentos e justificativas para os contrarios usarem de artificio para derruba los,0,1,0,True,False,Só baseline errou
+2438,"Parabens ministro Fschin, se o sr pudesse mandar logo esse lulopetista logo para o presidio, seria muito bom mesmo",1,0,1,True,False,Só baseline errou
+3996,Uma verdadeira absoluta 👏👏👏👏,0,1,0,True,False,Só baseline errou
+3085,Quando acaba o dinheiro.. muitas vezes acaba o amor tb.. sobrando apenas a hipocrisia..,1,0,1,True,False,Só baseline errou
+1401,Devia ter vergonha em falar a palavra honra,1,0,1,True,False,Só baseline errou
+3236,"O tombo vai ser grande, eu vou aplaudir de pé.",1,0,0,True,True,Ambos erraram
+4938,"Noh coisa feia duas deputadas do mesmo partido , com essas brigas sem fundamento.",0,1,0,True,False,Só baseline errou
+6945,👏👏esse é o cara,0,1,0,True,False,Só baseline errou
+3278,"Eu quero mais mulheres na política, mas que não sejam iguais a você.",1,0,0,True,True,Ambos erraram
+4247,Vc fez inglês no fisk?,0,1,0,True,False,Só baseline errou
+1444,"Se tiver que lutar pelo futuro dos meus filhos e a melhoria do meu país , eu volto para as forças armadas sem salário e ajudo a combater a esquerdalha. #lulaterroristanacadeia",1,0,1,True,False,Só baseline errou
+3113,🤣🤣🤣🤣🤣ser desmentida ao vivo não tem preço!!!🤣🤣🔝🇧🇷,1,0,0,True,True,Ambos erraram
+4582,Ministra imagino sua dor . Acredite que sua vitória está cada dia mais perto !,0,1,0,True,False,Só baseline errou
+3145,Kkkkk bem afrontoso👏👏👏👏👏👏🙌,1,0,0,True,True,Ambos erraram
+1134,Faz parte do patriarcado brasileiro querem o que?? Homens nojentos que já veem meninas como mulheres.,1,0,1,True,False,Só baseline errou
+3969,Dos deputados e senadores que votaram a favor das #fakenews o @flaviobolsonaro foi um deles?,0,1,0,True,False,Só baseline errou
+5777,"Que representantes (PSL) são esses? Que tipo de ser representam??? Repúdio por esse ato racista, sim! Não há justificativa!",0,1,0,True,False,Só baseline errou
+85,#foracomunismosocialismo🤬😠😡👊👊👊,1,0,0,True,True,Ambos erraram
+4995,Alexandre Garcia um dos jornalistas mais imparcial desse país. Você e correto não importa o presidente do país mas sim o que ele faz pelo nosso país. Você e um exemplo para esses jornalistas que estão iniciando na profissão de repórter.,0,1,0,True,False,Só baseline errou
+3304,"@marcos_chuma_ Marcos eu já acreditei que o Tarso Genro não ia se candidatar para governador, não gosto que vc limite meu papel de trouxa na vida hahahahahahaha",1,0,1,True,False,Só baseline errou
+2052,"Sujeito desomano só pensa nele e na familia dele,mas eu creio Deus,diferente de que é falso com Deus",1,0,1,True,False,Só baseline errou
+6552,"A preservação da integridade da Amazônia é um grande desafio para o governo, e vale a pena ser encarado com planejamento e energia.",0,1,0,True,False,Só baseline errou
+6749,Chic esses filhos do mito 👏👏,0,1,0,True,False,Só baseline errou
+3892,E ele sabe onde fica Roraima?,0,1,0,True,False,Só baseline errou
+1890,"Que bom que,as máscaras estão caindo rápido.",1,0,1,True,False,Só baseline errou
+2657,"VÁ TRABALHAR MINHA SENHORA, PROPAGANDA NÃO LHE CAI BEM....",1,0,1,True,False,Só baseline errou
+6957,👏👏👏🇧🇷🇧🇷🇧🇷 esse cara me representa...,0,1,0,True,False,Só baseline errou
+2378,O Brasil que você não é o Brasil de 1800 sua analfabeta.,1,0,1,True,False,Só baseline errou
+3363,Quase não liberaram o meu comentário. Como o pessoal de direita consegue furar a bolha e dizer tanta baixaria?,1,0,1,True,False,Só baseline errou
+5019,Só não está melhor ainda mais por conta do Congresso do STF.,0,1,0,True,False,Só baseline errou
+6562,@prillamendes você disse tudo. Essa é a questão! E agora querem que Lula resolva??,0,1,0,True,False,Só baseline errou
+973,Homenzinho de última!,1,0,0,True,True,Ambos erraram
+3432,Só criminoso na foto,1,0,1,True,False,Só baseline errou
+1997,"Será,,Kkkk,,,,vcs mentem tanto mais tanto,,,,,parabéns Bolsonaro senta lenha",1,0,1,True,False,Só baseline errou
+2773,"Não tenha dúvidas, sem capim está sempre a sua disposição 😂😢",1,0,0,True,True,Ambos erraram
+6499,Não preci@ de pesquisa isso mostra as urnas? Bolsonaro🇧🇷,0,1,0,True,False,Só baseline errou
+6024,"Patrocínio da esquerda internacional, não tem fim a verba.",0,1,0,True,False,Só baseline errou
+5486,@joicehasselmannoficial cuida da sua imagem pare de dar manchetes para a esquerda ajude o nosso Presidente e pare porque sua Boca fala do que seu coração está cheio porque você não esquece o filho do Presidente e cuida de fazer a sua política e mostra para o povo o que o nosso Presidente 🇧🇷 está fazendo de bom.,0,1,0,True,False,Só baseline errou
+3410,"Mais esquerdista, é melhor não, porque estamos querendo nos livrar desse câncer!",1,0,1,True,False,Só baseline errou
+3405,Não acredito que ainda vai ter quem vote na Pepa!,1,0,0,True,True,Ambos erraram
+1524,Já estou levantado capeta,1,0,1,True,False,Só baseline errou
+5481,Tem que pensar melhor antes de falar!!! Porque a esquerda pode falar o que quer ninguém diz nada (imprensa) Quando e do lado do Presidente ...qualquer coisa vira manchete! Então tem que ter muito cuidado mesmo!,0,1,0,True,False,Só baseline errou
+6862,"@vanfernandez.adv Sendo a senhorita, uma agente do Direito. AONDE exatamente, fica O PRINCÍPIO da IMPESSOALIDADE ou FINALIDADE, referido na constituição de 1988 (art. 37, caput)? Dentro da sua capacidade Intelectual, e saber jurídico.",0,1,0,True,False,Só baseline errou
+3912,Quem é que vai julgar as fakes news ? Esse é o problema!,0,1,0,True,False,Só baseline errou
+5431,"QUANDO VAI ASSINAR UMA LEI PARA ACABAR COM OS CARTOES CORPORATIVOS? O PRESIDENTE NAO VE QUE CADA CARTAO É UMA TORNEIRA ABERTA PARA O GASTO DO DINHEIRO PUBLICO? PARA DIZER QUE FAZ ALGUMA COISA, CRIA UM IMPOSTO, SOBRE QUEM TRABALHA, NAO TIRA NADA DA CLASSE POLITICA!",0,1,0,True,False,Só baseline errou
+5482,Cuidado porque óleo e água não se mistura... quem ficar em cima do muro só vai assistir...,0,1,1,True,True,Ambos erraram
+3094,"Impactante! Caráleo como ousam?! Até onde vamos por dinheiro?? Até o ""fim""?",1,0,0,True,True,Ambos erraram
+2823,A pertubada do ano!!!,1,0,1,True,False,Só baseline errou
+3550,"Cara, você tem noção de quem ordenou essa invasão da Polonia!?!?🙁😣",0,1,0,True,False,Só baseline errou
+999,Se fosse meu pai eu ja tinha interditado! Nojento,1,0,1,True,False,Só baseline errou
+5817,"Quebraram a Placa de Marielle ao Vivo e a Cores, a Televisão Filmou, TODOS Assistiram, NINGUÉM fez Nada e os caras foram eleitos. Agora Isso !!! Realmente, é um Túnel SEM Luz no final 😭😭😭😭😭",0,1,0,True,False,Só baseline errou
+6634,Só amigos que se cumprimentam assim 👏👏👏👏,0,1,0,True,False,Só baseline errou
+2006,"Pra quem votou em BolsoNero meus parabéns ,vc é burro ,idiota ,alienado agora faz arminha e aceita que dói menos",1,0,1,True,False,Só baseline errou
+2307,Não concordo com isso. Isso é picuinha sua. E espero que você não faça nada. Se não tivesse brigado não faria nada. você parece criança. O deputado mais votado mais até que você. Não vou deixar de seguir você mais vou argumentar contra todas suas picuinhas.,1,0,1,True,False,Só baseline errou
+5341,Só de pensar que perdemos esse presidente....💔,0,1,0,True,False,Só baseline errou
+2368,"Tanto branco com alma negra. Todos deveríamos ser igual perante Deus , não é a cor da pele que nos faz diferentes e sim a cor da alma!!!! Ah essa Deus conhece bem!",1,0,0,True,True,Ambos erraram
+2800,Menina insuportável,1,0,1,True,False,Só baseline errou
+3999,Greta me lembra muito a Malala. São fios de esperança de que nossos filhos e netos ainda tem alguma chance de sobreviver num planeta que tá sendo destruído por uma geração que já está mais do que obsoleta,0,1,0,True,False,Só baseline errou
+912,Vc é motivo de piada na grande mídia...se não fosse seu pai quem seria vc??? Ainda bem q só votei no seu pai...sou Brasil acima de tudo...sou verde e amarelo com muito orgulho... agora não tem como aceitar calado o q e sua galera quer fazer no Brasil,1,0,0,True,True,Ambos erraram
+546,Os PTistas se fuderao muito,1,0,1,True,False,Só baseline errou
+4376,Mds! Até quando vão permitir isso com as mulheres desse país?!!!,0,1,0,True,False,Só baseline errou
+3121,A lacradora perdeu o rumo !!! Bela broxada!!! 😂😂😂😂😂,1,0,1,True,False,Só baseline errou
+6032,"Quanta gente se beneficiando com o uso da imagem de uma adolescente ,que nem sabe que e usada politicamente!!",0,1,0,True,False,Só baseline errou
+3329,"Obaaaaaa. Por na parede de casa... Espantar os mosquitos, baratas e outros insetos...",1,0,0,True,True,Ambos erraram
+4377,Crianças assediadas mais uma vez,0,1,0,True,False,Só baseline errou
+5204,Ela ganhou e vai continuar objetificada... Preguiça desses discursos 😔,0,1,0,True,False,Só baseline errou
+6860,Homem de reputação ilibada e saber jurídico.👏👏👏👏👏,0,1,0,True,False,Só baseline errou
+2831,"Tô com meu presidente, está Maria mijona quer meter o bedelho no país dos outros, por que ela não investe toda essa força pra reflorestar o país dela, falar do país dos outros é fácil, agora tá todo mundo preocupado com o nosso verde e outras coisas mais, acho que se ela não nos encher é melhor, manda ver presidente, nós te apoiamos.",1,0,1,True,False,Só baseline errou
+6205,Professor: 2800 reais entrar na alíquota do IR é muita sacanagem. Até pq vc sabe que com menos de 3 pau por mês mal da pra sobreviver a depender de onde se vive.,0,1,1,True,True,Ambos erraram
+1145,Aceitar comentários de Minions é de uma grandeza absoluta... só por isso tem meu voto eternamente,1,0,0,True,True,Ambos erraram
+6503,👏👏👏👏 ESSE é o escolhido do povo e nem tem condiçao de negar. 😂😂😂😂😂😂💪🏻💪🏻💪🏻👊🏻🤛🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻👏🏻,0,1,0,True,False,Só baseline errou
+6201,"@fernandohaddadoficial Então, queremos saber se já foi feita a correção da tabela do IRPF pra esse ano? Pq ano passado foi feita uma pequena correção e quem ganha até 2.640,00 (dois salários mínimos) ficou isento de pagar o IR e esse ano quem ganha 2.824,00 reais (dois salários mínimos) está isento de pagar o IR ou não foi feita a correção da tabela do IRPF????",0,1,0,True,False,Só baseline errou
+5031,A imprensa que queremos👏👏🇧🇷,0,1,0,True,False,Só baseline errou
+3897,E o pior é que ele ganhou no estado e mesmo que tivesse perdido era dever dele respeitar!😒😒,0,1,0,True,False,Só baseline errou
+2079,Fogo 🔥 nele,1,0,0,True,True,Ambos erraram
+905,"Ai5 é meus ovos , entrevista de qualidade de gente sem cérebro🍊🍊🍊🍊🍊🍊🍊🍊",1,0,0,True,True,Ambos erraram
+4380,"E o pior... a mãe da menina ficou sorrindo. Será que achou engraçado, ou sorriu desconcertada?",0,1,0,True,False,Só baseline errou
+6801,"Eai ministro? Quase um mês que autorizou o desconto dos carros mas o site não funciona pra faturar os pedidos. 15 dias carro parado na concessionária, a gente precisanfo do carro pra trabalhar",0,1,0,True,False,Só baseline errou
+4395,"Que absurdo, não sei como tem gente q assiste esse cara, e ainda acham graça 😔",0,1,1,True,True,Ambos erraram
+5739,❤️❤️❤️ Bene disse tudo. Esse ignóbil faltou aulas de História.,0,1,1,True,True,Ambos erraram
+1050,Noja comprando a inocência dessas meninas! 😠😠😠🤮🤮🤮🤮🤮🤮🤮🤮,1,0,1,True,False,Só baseline errou
+1482,O bom é saber que ele esta com 74 anos e em breve capota.,1,0,1,True,False,Só baseline errou
+4181,@alexandrepereira8396 Viu sua foto no meio deles?,0,1,0,True,False,Só baseline errou
+6349,"Porque vocês não fazer propostas do tipo reduzir número de partidos. Dois de esquerda um de centro e dois de direita. Outra proposta diminuir números de municípios, e os pequenos colocarem como distrital de outra cidade mais próxima é maior, acabar com cargos de vice-governador e vice-prefeito",0,1,0,True,False,Só baseline errou
+5985,Sem nem nos seus comentários essa opinião não é maioria imagina no Brasil kkkkkk,0,1,0,True,False,Só baseline errou
+6021,Ela é santa e perfeita kkkkk,0,1,1,True,True,Ambos erraram
+2451,Que seja condenado,1,0,1,True,False,Só baseline errou
+3966,"Tem que divulgar a lista dos parlamentares que derrubaram o veto, e o povo tem que fazer barulho e nas próximas eleições derrubar a todos eles nas urnas, é hora de dar um basta em tudo isso.",0,1,0,True,False,Só baseline errou
+1787,"🐷🐷🐷 Acho q vai ser o último mandato, se perdeu, egocentrismo. Vá com Deus p/ PSDB 🐷",1,0,0,True,True,Ambos erraram
+2005,Parabéns aos envolvidos! Faz arminha e grita mito.,1,0,1,True,False,Só baseline errou
+578,"Vou morrer na prisão, #ptnuncamais",1,0,1,True,False,Só baseline errou
+6058,"Projeto do George Soros, patrocinador da esquerda no mundo.",0,1,0,True,False,Só baseline errou
+159,Ou quando o Brasil estava sendo saqueado pelo PT? ?,1,0,1,True,False,Só baseline errou
+3097,"Querem roubar a nossa Amazônia!!! Ja saquearam as Américas e a África, agora querem a cereja do bolo!!! Amazônia é nossa!🇧🇷 @manueladavila",1,0,1,True,False,Só baseline errou
+6039,"Se a gente fosse acreditar e concordar no que a grande mídea pensa, jamais votariamos no Bolsonaro. Vocês tem que entender que o senso crítico de hoje é bem difirente, assim como sabemos que Greta é uma imagem funcional, os interesses são outros.",0,1,0,True,False,Só baseline errou
+4715,Nunca desista de um sonho; ainda mais se também for o sonho do povo brasileiro,0,1,0,True,False,Só baseline errou
+5574,Por isso que Lula e Dilma não tinham familiares na política.,0,1,0,True,False,Só baseline errou
+3987,"Dá desânimo de ler as notícias, lutamos tanto pra mudar as coisas e no fim não vira nada!! 😥",0,1,0,True,False,Só baseline errou
+4337,Vai ser ótimo!!!!,0,1,0,True,False,Só baseline errou
+6203,"Precisamos da sua ajuda para acabar com a injustiça no Prouni. Nossa reivindicação é unicamente para reserva de vagas dos bolsistas de escolas particulares. Em nenhum momento queremos prejudicar estudantes de escola pública. Estamos lutando pelos direitos de estudante de baixa renda que foram bolsistas integrais ou parciais em escolas privadas, estudantes com deficiência que estudaram em escola privada e estão sendo excluídos do Prouni. Não queremos competição entre estudantes de escola pública e estudantes oriundos de escolas privadas. Se houve a criação de uma categoria para estudantes de escola particular e nenhum estudante dessa categoria está sendo contemplado, criou-se outra distorção, outra exclusão. Por isso, é justo que haja uma reserva pra alunos bolsistas integrais e parciais, visto que esses alunos também se enquadram nos critérios de baixa renda e cursaram escolas privadas apenas por intermédio de bolsas, não possuindo recursos para pagar integralmente cursos como medicina, por exemplo.",0,1,0,True,False,Só baseline errou
+3257,"@eldereliascustodio Vai bem obrigada, trabalhando como sempre pelo Brasil, o pobre de direita !😂",1,0,1,True,False,Só baseline errou
+5735,É tem negro defendendo essa barbárie!,0,1,1,True,True,Ambos erraram
+3336,Dois desqualificado sem qualidade nenhuma,1,0,1,True,False,Só baseline errou
+6796,"O Ministro do Trabalho, Luiz Marinho, planeja propor ao Conselho Curador do Fundo de Garantia por Tempo de Serviço (FGTS), a suspensão da antecipação do saque-aniversário. Essa medida funciona como um empréstimo bancário, com um limite de juros de 2,05% ao mês, que é significativamente menor do que os juros do cheque especial e do rotativo do cartão de crédito.",0,1,0,True,False,Só baseline errou
+1135,O nariz tah crescendo ou é impressão minha? 😂😂,1,0,0,True,True,Ambos erraram
+3084,"Eu n sabia da propina. Meu Deus, qta sujeira😳",1,0,1,True,False,Só baseline errou
+6629,"@brunomartins_sf1 realmente vou ter que voltar a estudar e entender tudoooo que está acontecendo. Vc deu uma aula ... nos passe sua base de conhecimento, para que tds aqui possa seguir este mesmo pensamento, de argumentos e de Educação. Sensacional 👏👏👏👏👏👏",0,1,0,True,False,Só baseline errou
+2749,Estamos vendo que 💩 é a TIME afinal só olhar o dono. E como boa puxa saco de editor acha justo...precisa conhecer @boyanslat e entender o que é relevância de PERSONALIDADE EM MEIO AMBIENTE MUNDIAL!,1,0,1,True,False,Só baseline errou
+1588,Milícias digitais e reais! Fazem um grande estrago à democracia brasileira!,1,0,1,True,False,Só baseline errou
+3225,"Não vejo a hora dos segredos bizarros do cabeça de ovo, serem revelados... pois como dizia minha vozinha muito sábia: quem muito abaixa mostra a bunda.",1,0,1,True,False,Só baseline errou
+5161,Rainha nossa!!! Lute por esse povo tão judiado!!!,0,1,0,True,False,Só baseline errou
+5646,"Só atrapalham o pai, até quando isso hein",0,1,1,True,True,Ambos erraram
+5643,Falam mais da conta.. quiz dizer....,0,1,0,True,False,Só baseline errou
+309,João traidor do movimento!,1,0,1,True,False,Só baseline errou
+5459,Tá apaixonada? Vira o disco😂,0,1,0,True,False,Só baseline errou
+3249,Pura balela. Com novo teto de gastos impossível desenvolver qualquer coisa,1,0,1,True,False,Só baseline errou
+5196,"Exatamente, apesar de ser um concurso sem o menor valor necessário para o engrandecimento da sociedade. Ter uma mulher negra, com o cabelo dela, como a mulher mais bonita do mundo. É foda pra caralho! 👏🏿",0,1,0,True,False,Só baseline errou
+5639,"Tchau @joicehasselmannoficial Era pra mim já ter feito isso Mais tchau , E só um recado pede desculpa a família bolsonaro e a todos os brasileiros senão vai ficar feio pra vc , e os anos passam rápidos demais , e seja leal ao seu líder @jairmessiasbolsonaro e sua família Tchau",0,1,0,True,False,Só baseline errou
+993,E essas mulheres rindo????? Credo,1,0,1,True,False,Só baseline errou
+5458,Isso é a retórica dela. Quanto ao mesmo objetivo vcs tem o mesmo. O duro é contemplar o cargo que lhe agrada.,0,1,0,True,False,Só baseline errou
+1757,Que Jesus esses demônios seguem! Meu Deus salve nosso país de seres demoníacos como esse Marco Feliciano!😈😈,1,0,1,True,False,Só baseline errou
+4943,Essa deputada tem que ser contida por alguém.,0,1,1,True,True,Ambos erraram
+1957,Na terra em que essa mulher africana é bonita as trans são mulheres. Surrealismo clássico.,1,0,0,True,True,Ambos erraram
+2050,VCS É QUE ESTÃO NOS ROUBANDO,1,0,1,True,False,Só baseline errou
+5419,Pra quem votou nisso. Tb contribuira para isso.,0,1,0,True,False,Só baseline errou
+5811,Tem que abrir processo disciplinar por quebra de decoro na forma do regimento. Pelo vandalismo e pelo ato de racismo.,0,1,0,True,False,Só baseline errou
+3899,A Europa prática o capitalismo. O governo não precisa ser de direita para praticar tal,0,1,0,True,False,Só baseline errou
+5392,TD contra os pobres.,0,1,1,True,True,Ambos erraram
+4378,O pior é que as pessoas acham graça,0,1,0,True,False,Só baseline errou
+4394,Ele pode tratar assim esse assunto?! Cade a Damares?!,0,1,0,True,False,Só baseline errou
+660,Parabéns a garotinha do George Sorus. Uma laranjinha sendo usada pelas grandes corporações parabéns a menina usada por sua mãe e as gigantes de seu contrato.,1,0,1,True,False,Só baseline errou
+5302,Mérito seu!👏👏🙌,0,1,0,True,False,Só baseline errou
+2156,Maldito seja para todo o sempre.,1,0,1,True,False,Só baseline errou
+3355,alvesdossantos_carla eterno presidente da papuda! Ou tu prefere Bangu???? VOTE IMPRESSO 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂,1,0,1,True,False,Só baseline errou
+1228,Meu respeito a Ministra. Toda minha indignidade a imprensa suja que a persegue e a violenta.,1,0,1,True,False,Só baseline errou
+5321,"O contraste de pensamentos é tão grande,que parece que vivemos um pesadêlo!",0,1,0,True,False,Só baseline errou
+5020,Só rezo e acredito🙏,0,1,0,True,False,Só baseline errou
+3175,Cade os Bolsominions defendendo? Cade a espuma? Kkkkk Silêncio,1,0,1,True,False,Só baseline errou
+4520,Essa entrevista aqui é que vale a pena kkk @g9paes,0,1,0,True,False,Só baseline errou
+495,"Perde não, Carla. As notícias verdadeiras é que são válidas mesmo. Quem corre risco maior é a esquerda, que inventou muito na eleição.",1,0,0,True,True,Ambos erraram
+6408,Kkkkk Mais afiado que tramontina😂💚💛,0,1,0,True,False,Só baseline errou
+6140,@joaoamgomes Por que os petistas têm tanto medo de investigarem a morte do Celso Daniel?,0,1,0,True,False,Só baseline errou
+6798,"“O saque-aniversário, apesar de necessitar de melhorias, como o fim da carência de 25 meses para acessar o FGTS em caso de demissão, é um programa excelente para o cidadão, pois dá a ele acesso imediato a recursos que são seus mas que estão retidos compulsoriamente pelo governo, rendendo menos que a inflação”, opinou.",0,1,0,True,False,Só baseline errou
+6180,E o Lula não tem nem uma ministra mulher,0,1,0,True,False,Só baseline errou
+4232,O melhor é a cara dela no final😂😂😂😂,0,1,0,True,False,Só baseline errou
+6231,@_rodrigobrazz Então como é curioso veio comentar kkkkkkk ajuda aí Zé 😂😂😂😂😂😂😂,0,1,0,True,False,Só baseline errou
+3900,Tem que rir para não chorar...😢😂,0,1,0,True,False,Só baseline errou
+2319,"Se arrependimento matasse, eu e todos meus amigos e familiares a quem incentivei que votassem em vc estaríamos mortos!! 🤮",1,0,0,True,True,Ambos erraram
+3895,E ele quer decidir até as eleições vizinhas.,0,1,0,True,False,Só baseline errou
+6002,Nenhuma pessoa deveria dar ouvidos para essa garota. E nosso presidente toda vez que aparece na TV é por causa de falas que não cabem a um líder de um país fazer!,0,1,1,True,True,Ambos erraram
+2506,"Vão amargar todos ,pois, Deus é justo. 🙌🙌🙌",1,0,0,True,True,Ambos erraram
+6011,"Além de que, na minha interpretação, a fala dele não foi nem no sentido pejorativo. O “pirralha” dele foi mais no sentido de “criança” mesmo.",0,1,1,True,True,Ambos erraram
+989,"Ele sempre foi um monstro. Sempre humilhou pessoas. Sempre foi um péssimo empresário, um empregador desleal e injusto. Já deveria ter sido banido há tempos. Faustão não é muito melhor. Temos a pior televisão de todos os países.",1,0,1,True,False,Só baseline errou
+4459,Significado de tanto faz @giulianaaraujo906 😂,0,1,0,True,False,Só baseline errou
+3519,É de esquerda? Sem explicações.,0,1,0,True,False,Só baseline errou
+2910,"Têm que haver uma maneira de combater esses miseráveis. Deus me perdoe, mas eles se acham que podem fazer o que querem.aff",1,0,1,True,False,Só baseline errou
+3198,EXISTE UMA LINGA TÊNUE ENTRE O ENGRAÇADO E O PATÉTICO.,1,0,1,True,False,Só baseline errou
+719,"Meu ídolo, a esperança para nos salvar da insanidade desse presidente idiota. @fernandohaddadoficial",1,0,1,True,False,Só baseline errou
+2330,Parabéns Benedita...esse canalha precisa ser punido!,1,0,1,True,False,Só baseline errou
+1625,Que gente asquerosa!!! 🤮,1,0,1,True,False,Só baseline errou
+4569,Muito triste ver como a imprensa brasileira se porta.,0,1,0,True,False,Só baseline errou
+2100,Ñ suporto essas palhaçadas esse ñ. me representa.,1,0,1,True,False,Só baseline errou
+6098,Esse nunca mais pisa nos USA 😳😳😳😳😳😳😳😳😳😳😳😳,0,1,1,True,True,Ambos erraram
+3955,Tá difícil viver nesse país,0,1,0,True,False,Só baseline errou
+182,#maiatraidordapatria,1,0,1,True,False,Só baseline errou
+6044,"Assim como no Brasil elegem, caneta azul a música do ano, lá fora eles elegem uma criança a personalidade... 🙈🙉🙊",0,1,0,True,False,Só baseline errou
+5136,"Exatamente!!! Sou pessoalmente contra esse tipo de comparação com nós mulheres - considero isso uma leviandade! Mas quando alguém consegue transcender esse lugar, e, com esse nível de consciência e empoderamento , não é só sobre um concurso, estamos falando de representatividade...e precisamos de mais vozes como a dela! ❤️😍",0,1,0,True,False,Só baseline errou
+3174,A insanidade mental tomou conta do Brasil. Lamentável.,1,0,1,True,False,Só baseline errou
+5992,Curtem os comentários fortalece a união ❤️. Os ricos se incomodam tanto que aparecem aqui pra comentar,0,1,0,True,False,Só baseline errou
+5547,Ou essa estrategia é refetente a teoria da conspiracao ou esses filhos podem afundar o trabalho de enfrentamento a essa esquerda danosa que o Presidente esta fazendo,0,1,1,True,True,Ambos erraram
+4630,Correto o silencio 🙏💚💛💙🙏 falta de respeito com ser humamo #inveja salmo 51,0,1,0,True,False,Só baseline errou
+2679,"Emprego é bom mas ganhar 1.200,00 por mês pra cuidar de casa e filhos, é outra história. É muito pão e circo.",1,0,1,True,False,Só baseline errou
+2201,Os filhos do mito atrapalham demais! Batem fora do bumbo!!,1,0,1,True,False,Só baseline errou
+1494,Esse calhorda nunca mais terá a força que nosso Brasil tem hoje 👏🏻👏🏻👏🏻👏🏻,1,0,1,True,False,Só baseline errou
+2204,Nisso vc tem razão . Os filhos do presidente falam muita besteira desnecessária,1,0,1,True,False,Só baseline errou
+3686,"@matthews_salles Que bobagem! O Glen ñ precisa da proteçao de ninguem! O flavinho, sim!",0,1,1,True,True,Ambos erraram
+2360,Vai dormir Benedita!!,1,0,0,True,True,Ambos erraram
+5949,Onde foi feita essa Pesquisa na sede do PT,0,1,0,True,False,Só baseline errou
+3701,Ok. Esse é um crossover que nunca imaginei.,0,1,0,True,False,Só baseline errou
+5635,"Esses filhos do presidente só atrapalham, cada um tem que seguir a sua própria vida.",0,1,1,True,True,Ambos erraram
+6686,Vem pro PT,0,1,1,True,True,Ambos erraram
+3837,Como um presidente faz esse tipo de comentário? Depreciando um estado 🤦🏼‍♀️,0,1,0,True,False,Só baseline errou
+3237,Xandão já virou persona non grata assim como o chefe,1,0,0,True,True,Ambos erraram
+1424,"Deus onrre nosso governo. E parabéns pela perseverança, nunca desista do Brasil estamos com vocês, o Brasil precisa de pessos de coragem para enfrentar o militantes vermelho.",1,0,0,True,True,Ambos erraram
+6338,"Revisão do FGTS, Abono salarial atrasado, Revisão da vida toda, são direitos trabalhistas, Partido dos trabalhadores ainda não devolveu esses diretos.. O que a senhora diz?????",0,1,0,True,False,Só baseline errou
+419,Fora bozzolino! Christina vamos a volver✌✌✌,1,0,1,True,False,Só baseline errou
+4538,"mulher não é uma pessoa, por isso está acima da sociedade",0,1,0,True,False,Só baseline errou
+3504,"A gente não precisa da sua pena, tenha pena do seu país que não tem florestas!!!",0,1,0,True,False,Só baseline errou
+6195,"Não se iluda, aqueles que defendem a censura na Internet, não estão preocupados com as notícias falsas (fake news) e sim com as notícias verdadeiras! Censura nunca mais ! Chega de ditaduras",0,1,0,True,False,Só baseline errou
+1723,Depois que a religião elegeu o capeta parei de acreditar...só acredito em Deus!,1,0,1,True,False,Só baseline errou
+5660,Esses filhos vão acabar com o mandato do pai,0,1,1,True,True,Ambos erraram
+2257,Os filhos do nosso Presidente poderiam calar à boca!!!,1,0,1,True,False,Só baseline errou
+277,"Essa ridícula aí, tinha que pedir desculpa ao nosso presidente",1,0,1,True,False,Só baseline errou
+6843,Dengue precisa e de vacina né de vídeo bonito não cadê as vacina,0,1,0,True,False,Só baseline errou
+4420,Aaaah nao! A internet nao vai aguentar! 😍👏🏼,0,1,0,True,False,Só baseline errou
+2600,Vc e a Greta: duas oportunistas,1,0,1,True,False,Só baseline errou
+278,"Sério???? Engraçado que quem invadiu a Polônia foram os Nazistas. Você estava comemorando isso???? A invasão???? Fascista que fala, né!!!",1,0,0,True,True,Ambos erraram
+1815,#DEPUTADADECEPÇÃOTRAÍRA,1,0,0,True,True,Ambos erraram
+5406,"E os trabalhadores nem aí, não existe vontade de lutar por direitos, greve geral só na história",0,1,0,True,False,Só baseline errou
+2456,"😂😂😂😂 debochado, foi bem pago..",1,0,1,True,False,Só baseline errou
+3357,"Prezados Deputados e Senadores, com todo respeito, exigimos que pressionem o Sr Pacheco para colocar imediatamente o Impeachment do ditador Alexandre de Moraes",1,0,0,True,True,Ambos erraram
+2624,"Os Bolsofanáticos !!! É até bonito de ver... Quanta fidelidade ao mito !!! Pra vocês, o Bolsonaro está acima da lei e da ordem, ele pode fazer e falar o que quiser, e vocês dizem Amém Capitão, por favor coma minha mulher, ou, coma meu marido !!! Afinal ele pode tudo né ??? Imagino que o sonho de vocês é que isso realmente aconteça !!!! Vocês são piores que os vermelhos que gritavam por Lula Livre !!!! Sinto em dizer-lhes mas, a pirralha está certa !!! Que base o Bolsonaro tem pra falar de Meio Ambiente !!! Não se pode falar nada contra o clã Bolsonaro que vocês se manifestam !!! 🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️",1,0,1,True,False,Só baseline errou
+6306,De que adianta se só fica no papel!,0,1,0,True,False,Só baseline errou
+3331,@lusilenegaspargaspar O RIVOTRIL SENHORA ESQUECEU MESMO 😂😂😂😂😂,1,0,0,True,True,Ambos erraram
+1739,"E o PSL como sempre, envolvido das atrocidades .",1,0,1,True,False,Só baseline errou
+6020,"A estratégia de Soros é apoiar movimentos de protesto que minam os nacionalismos, colocando acima as reivindicações sociais globais, que desafiam os governos progressistas com um senso de pátria. De pertencer a um território e uma cultura. Malala e Greta fazem parte dessa estratégia, embora a mídia corporativa do mundo esteja focada em saber se a garota escandinava pode retornar de veleiro, mula ou skate para sua escola sueca, para não se contaminar no caminho de volta.",0,1,0,True,False,Só baseline errou
+1856,Desiquilibrio total.,1,0,1,True,False,Só baseline errou
+2583,"Claro, e criança adolescente, mas tem postura de bruxa",1,0,1,True,False,Só baseline errou
+5549,A Joice já falou em vídeo sobre intervenção ta falando ok agora.essa .,0,1,0,True,False,Só baseline errou
+850,"Parabéns, ex presidente inelegível. Quem sabe no seu próximo aniversário vai comemorar na Papuda. 😂😂😂",1,0,0,True,True,Ambos erraram
+3598,É só eu que acho que uns 80% é do oitavo?,0,1,0,True,False,Só baseline errou
+524,Haddad vai pegar prisão perpétua,1,0,0,True,True,Ambos erraram
+6504,SEGUE O LÍDER NÃO TÊM PRÁ NINGUÉM,0,1,0,True,False,Só baseline errou
+6671,Que tal governadora do Rjkkk,0,1,1,True,True,Ambos erraram
+3199,"Estou indignada com tanta violência e preconceito. Estamos com a senhora, Ministra.",1,0,0,True,True,Ambos erraram
+5717,O Brasil nao podem ter racistas porque Uma naçao forte e Uma pais desenvolvido so cresce com a uniao de todos um presiza do outro,0,1,0,True,False,Só baseline errou
+6104,O bicho vai pegar,0,1,0,True,False,Só baseline errou
+406,"Meus olhos doem demais quando leio oq esse bobão fala, socorrrro",1,0,1,True,False,Só baseline errou
+1776,Vc é a prova da lástima que a educação do Brasil está.,1,0,0,True,True,Ambos erraram

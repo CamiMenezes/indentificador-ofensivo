@@ -1,0 +1,3 @@
+Modelo,Tempo registrado (s),Hardware,Escopo
+Baseline,1.3,Não registrado,Vetorização do treino + transformação do teste + ajuste
+BERTimbau,364.23596878500007,Tesla T4,"Somente treinamento; sem download, tokenização ou avaliação"

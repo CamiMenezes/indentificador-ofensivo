@@ -1,0 +1,5 @@
+situacao,count
+Ambos acertaram,1101
+Só baseline errou,184
+Só BERTimbau errou,58
+Ambos erraram,57
